@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19223a23-2905-45b2-953e-1b42e1b83bca" /># 📘 StudyFlow – Smart AI Study Planner
-
 A smart and interactive study planning application built with Python and Streamlit. StudyFlow helps students organise their subjects, manage study tasks, plan exams, track progress, and generate personalised study timetables.
 
 ## ✨ Features
