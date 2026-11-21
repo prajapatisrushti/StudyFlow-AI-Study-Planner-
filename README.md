@@ -1,25 +1,66 @@
-# StudyFlow – AI Study Planner
+# 📘 StudyFlow – Smart AI Study Planner
 
-A fresh Streamlit study-planning app with a local SQLite database.
+A smart and interactive study planning application built with Python and Streamlit. StudyFlow helps students organise their subjects, manage study tasks, plan exams, track progress, and generate personalised study timetables.
 
-## Features
-- Dashboard with task, study-time and exam summaries
-- Subject management
-- Study task tracking with priorities and statuses
-- Exam planner with countdowns
-- Weekly study planner
-- Progress analytics with Plotly charts
-- Local SQLite persistence
+## ✨ Features
 
-The initial "smart study suggestion" uses simple rules and does not require an API key.
+- 📊 **Dashboard:** Overview of study activities, tasks and upcoming exams.
+- 📚 **Subject Management:** Add and manage academic subjects.
+- ✅ **Study Task Tracker:** Manage tasks with priorities, deadlines and statuses.
+- 📅 **Exam Planner:** Track upcoming examinations with countdowns.
+- 🗓️ **Weekly Planner:** Organise weekly study activities.
+- 📈 **Progress Analytics:** Visualise study progress through interactive charts.
+- 🧠 **Smart Timetable Generator:** Generate personalised study schedules based on subjects, weak areas, available study hours and exam priorities.
+- 📥 **CSV Export:** Download generated timetables for offline access.
 
-## Run on Windows (PowerShell)
-```powershell
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-streamlit run app.py
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- SQLite
+- Pandas
+- Plotly
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/prajapatisrushti/StudyFlow-AI-Study-Planner-.git
 ```
 
-The app opens in your browser. Your data is stored locally in `studyflow.db`.
+### 2. Navigate to the project folder
+
+```bash
+cd StudyFlow-AI-Study-Planner-
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the application
+
+```bash
+python -m streamlit run app.py
+```
+
+The application will open in your browser.
+
+## 💾 Data Storage
+
+StudyFlow uses a local SQLite database to store study-related information on the user's computer.
+
+## 🎯 Project Objective
+
+To make study planning easier and more organised through a simple, interactive digital platform.
+
+## 👩‍💻 Developer
+
+**Srushti Prajapati**
+
+B.Sc. Computer Science | AI & Full-Stack Development Enthusiast
+
+[GitHub Profile](https://github.com/prajapatisrushti)
