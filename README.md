@@ -2,6 +2,15 @@
 
 A smart and interactive study planning application built with Python and Streamlit. StudyFlow helps students organise their subjects, manage study tasks, plan exams, track progress, and generate personalised study timetables.
 
+## 🚀 Live Demo
+
+**Try StudyFlow here:**  
+🌐 https://ai-studyplanner-srushti.streamlit.app/
+
+StudyFlow is deployed using **Streamlit Community Cloud**. Open the live application and explore its study planning features!
+
+
+
 ## ✨ Features
 
 - 📊 **Dashboard:** Overview of study activities, tasks and upcoming exams.
